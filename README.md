@@ -1,4 +1,4 @@
 # LeoMoon Bezier2SVG for Blender
-A Blender plugin to export bezier curves to SVG.
+A free Blender plugin to export bezier curves as SVG.
 ## More Info / Download
-https://leomoon.com/
+https://leomoon.com/downloads/plugins/leomoon-textcounter/

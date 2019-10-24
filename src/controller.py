@@ -44,7 +44,7 @@ class SVGFile:
 class BEZIER2SVG_OT_export(bpy.types.Operator, ExportHelper):
     """Export Bezier curve as SVG"""
     bl_idname = "bezier2svg.export"
-    bl_label = "Bezier2SVG"
+    bl_label = "Bezier2SVG (.svg)"
 
     # ExportHelper mixin class uses this
     filename_ext = ".svg"

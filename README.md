@@ -18,7 +18,7 @@ More info / download: https://leomoon.com/downloads/plugins/leomoon-bezier2svg/
 
 ## Changelog
 
-- 2.0.0 2026-04-12: Ported to Blender 5.1+ modern extension format
+- 2.0.0 2026-03-19: Ported to Blender 5.1+ modern extension format
 - 1.4.0 2023-03-09: Fixed expression and animation lag when rendering
 - 1.3.6 2021-06-03: Fixed compatibility issue for Blender 2.93 and 3.0
 - 1.3.5: Fixed text grouping bug
